@@ -21,3 +21,4 @@ if 0 < FloorNummy < 13:
             print("fuck u")
 else:
     print("That straight up isnt a floor chief")
+print("Cucker time")
